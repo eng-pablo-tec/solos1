@@ -149,7 +149,7 @@ const slidesData = [
   em solos saturados, os vazios estão preenchidos por água.
   `,
     questions: [
-      { q: "1) Quais são as três fases do solo?", img: "link" },
+      { q: "1) Quais são as três fases do solo?<br><br><br><br><br>As raízes ajudam a formar o solo ao: <br>Fragmentar rochas: A penetração física das raízes ajuda a quebrar rochas em partículas menores.<br>Melhorar a estrutura: Elas agregam partículas de solo (silt, argila, areia) e matéria orgânica, criando agregados mais estáveis.<br>Criar poros: O crescimento e a decomposição das raízes abrem canais (bioporos) que facilitam a infiltração de água e a circulação de ar.<br>Adicionar matéria orgânica: A decomposição das raízes adiciona matéria orgânica, que enriquece o solo e fornece nutrientes.<br>Promover a vida microbiana: As raízes fornecem matéria orgânica que serve de alimento para microrganismos benéficos, como bactérias e fungos, que por sua vez ajudam a transformar a matéria orgânica em nutrientes disponíveis para as plantas. ", img: "https://eos.com/wp-content/uploads/2021/08/efeito-de-aeracao-do-solo.jpg.webp" },
       { q: "2) O que acontece com o ar em um solo saturado?", img: "link" },
       { q: "3) Explique por que a fase líquida é importante.", img: "link" },
       {
@@ -776,3 +776,4 @@ const slidesData = [
     ],
   },
 ]; // FIM DO ARQUIVO COMPLETO
+
