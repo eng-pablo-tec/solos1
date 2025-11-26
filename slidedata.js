@@ -16,24 +16,24 @@ const slidesData = [
   `,
     questions: [
       {
-        q: "1) O que é o intemperismo e por que ele é importante para formar o solo?",
-        img: "https://maisagro.syngenta.com.br/media/uploads/2025/05/shutterstock_1879485352-scaled.webp",
+        q: "1) O que é o intemperismo e por que ele é importante para formar o solo? <br><br><br><br><br> Intemperismo, ou meteorização, é o processo natural de desgaste, decomposição e alteração de rochas e solos por ações físicas, químicas e biológicas. Ele ocorre pela exposição dos materiais a agentes como clima (temperatura e chuva), água, organismos e outros fatores, sendo um processo fundamental na formação dos solos e na modelagem das paisagens e do relevo terrestre.",
+        img: "./img/01-01.jpg",
       },
       {
-        q: "2) Quais fatores do clima aceleram a formação do solo?",
-        img: "link",
+        q: "2) Quais fatores do clima aceleram a formação do solo?<br><br><br><br><br>Os principais fatores climáticos que aceleram a formação do solo são a precipitação (chuvas) e a temperatura (calor). <br> Ação da Temperatura e Precipitação:<br>Altas Temperaturas: Aceleram as reações químicas de decomposição das rochas, processo conhecido como intemperismo químico. O calor também dilata os minerais, tornando a rocha mais frágil e suscetível à fragmentação física. Além disso, temperaturas mais altas tendem a acelerar a decomposição da matéria orgânica por microrganismos, o que contribui para a formação de nutrientes e características do solo.<br>Precipitação Elevada (Chuva): A água atua de diversas maneiras:<br>Facilita as reações químicas do intemperismo, atuando como solvente e meio de transporte de íons e partículas minerais.<br>Promove a lixiviação, que é a lavagem e o transporte de substâncias solúveis para horizontes mais profundos do solo.<br>Contribui para o intemperismo físico (como o ciclo de congelamento e descongelamento em climas temperados/frios, ou a ação da água corrente).<br>Mantém a umidade necessária para a atividade biológica (crescimento de organismos e microrganismos) que, por sua vez, acelera a formação do solo. <br>Em resumo, a combinação de altas temperaturas e chuvas abundantes resulta em processos de formação do solo mais intensos e rápidos, levando à formação de solos mais profundos e intemperizados, típicos de regiões tropicais úmidas, como as encontradas no Brasil. ",
+        img: "./img/01-02.jpg",
       },
       {
-        q: "3) Explique como a vegetação influencia a geração de matéria orgânica.",
-        img: "link",
+        q: "3) Explique como a vegetação influencia a geração de matéria orgânica.<br><br><br><br><br>A vegetação influencia a geração de matéria orgânica principalmente através da produção de biomassa vegetal e do subsequente processo de decomposição e ciclagem de nutrientes. <br>O processo ocorre da seguinte forma:<br>Fotossíntese e Produção de Biomassa: As plantas, como produtores primários, utilizam a luz solar, água e dióxido de carbono para realizar a fotossíntese, convertendo energia luminosa em compostos orgânicos (açúcares, celulose, lignina, etc.). Esses compostos formam os tecidos das plantas (folhas, caules, raízes, frutos).<br>Deposição de Resíduos Orgânicos: Com o ciclo de vida das plantas, ocorre a constante deposição de material vegetal morto na superfície e no interior do solo. Isso inclui a queda de folhas, galhos, frutos, além da morte natural de raízes.<br>Decomposição por Micro-organismos: Os resíduos vegetais depositados servem de alimento para uma vasta comunidade de organismos decompositores, como bactérias, fungos e invertebrados (minhocas, insetos). Esses organismos quebram os compos<br>os complexos da matéria orgânica em substâncias mais simples, transformando-a em húmus e liberando nutrientes inorgânicos de volta ao solo e à atmosfera.<br>Formação de Matéria Orgânica Estável (Húmus): A decomposição lenta e contínua resulta na formação de matéria orgânica estável, conhecida como húmus. Este material é essencial para a qualidade do solo, melhorando suas propriedades físicas, químicas e biológicas, como a retenção de água, a aeração e a disponibilidade de nutrientes.<br>Influência das Raízes: O sistema radicular das plantas contribui diretamente para a matéria orgânica do solo. As raízes mortas se decompõem no local, e as raízes vivas liberam exsudatos que alimentam micro-organismos benéficos, promovendo a formação de agregados e a estabilidade do solo. <br>Portanto, a vegetação é a fonte primária de matéria orgânica em ecossistemas terrestres, e a interação entre a produção de biomassa e sua decomposição sustenta o ciclo da matéria e a fertilidade do solo",
+        img: "./img/01-03.png",
       },
       {
-        q: "4) Se 1 cm de solo leva 400 anos para se formar, quanto leva para formar 10 cm?",
-        img: "link",
+        q: "4) Se 1 cm de solo leva 400 anos para se formar, quanto leva para formar 10 cm?<br><br><br><br><br>O cálculo é realizado da seguinte forma: 400 x 10 = 4000 anos.",
+        img: "./img/01-04.webp",
       },
       {
         q: "5) Uma rocha perde 2% da massa por século. Em 5 séculos, qual a perda total?",
-        img: "link",
+        img: "./img/01-05.png",
       },
     ],
   },
@@ -52,24 +52,25 @@ const slidesData = [
   `,
     questions: [
       {
-        q: "1) O que caracteriza o intemperismo físico?",
-        img: "https://maisagro.syngenta.com.br/media/uploads/2025/05/shutterstock_1879485352-scaled.webp",
+        q: "1) O que caracteriza o intemperismo físico?<br><br><br><br>O intemperismo físico é a desagregação de rochas por meio de processos mecânicos, sem alteração da sua composição química. Suas características principais incluem a ação de agentes como variação de temperatura, congelamento/descongelamento da água, vento e pressão, que levam à fragmentação das rochas em pedaços menores. É um processo comum em climas áridos e semiáridos, devido à grande amplitude térmica entre o dia e a noite.<br>Principais características:<br>Desagregação mecânica: As rochas se quebram e se fragmentam, mas sua composição química permanece a mesma.<br>Ação de agentes físicos:<br>Variação de temperatura: Ciclos de aquecimento e resfriamento causam a dilatação e contração contínuas da rocha, quebrando-a.<br>Congelamento e descongelamento: A água que se infiltra em fendas congela, expande-se e amplia as fraturas, um processo chamado de cunha de gelo.<br>Pressão: A liberação de pressão, como a que ocorre quando o gelo de uma geleira se move, pode fazer com que as rochas se quebrem.<br>Vento e abrasão: A força do vento, especialmente quando carregado de partículas, pode desgastar a superfície das rochas.<br>Ocorrência em climas específicos: É predominante em áreas com grande amplitude térmica diária e anual, como desertos e regiões semiáridas.<br>Ação biológica: Raízes de plantas podem se infiltrar em fendas e expandi-las, e a atividade de animais que escavam também contribui para o processo.<br>Abertura para intemperismo químico: O intemperismo físico frequentemente cria mais área de superfície nas rochas, o que acelera o intemperismo químico posterior.",
+        img: "./img/02-01.jpg",
       },
       {
-        q: "2) Por que regiões desérticas possuem forte ação física?",
-        img: "link",
+        q: "2) Por que regiões desérticas possuem forte ação física? <br><br><br><br><br>Regiões desérticas possuem forte intemperismo físico devido à grande amplitude térmica diária, com dias muito quentes e noites muito frias. Esse ciclo de expansão e contração quebra as rochas (termoclastia). A falta de vegetação deixa tudo exposto ao calor, ao vento e às chuvas raras, aumentando a desintegração. O vento carrega areia que funciona como um jato abrasivo, desgastando as rochas (erosão eólica). Quando pequenas quantidades de água infiltram e evaporam rápido, formam cristais de sal que pressionam as fissuras e quebram a rocha (haloclastia). E, mesmo raras, as chuvas intensas geram enxurradas fortes que deslocam sedimentos e aumentam a fragmentação. Por isso o intemperismo físico domina nos desertos.",
+        img: "./img/02-02.webp",
+      },
+
+      {
+        q: "3) Cite dois exemplos de fenômenos que quebram rochas mecanicamente.<br><br><br><br><br>Os fenômenos que quebram rochas mecanicamente são coletivamente chamados de intemperismo físico (ou mecânico). Eles desintegram a rocha em fragmentos menores sem alterar sua composição química. <br>Os principais fenômenos incluem:<br>Variações de temperatura (Termoclastia): O aquecimento e resfriamento rápidos e repetidos da superfície da rocha fazem com que suas camadas externas se expandam e contraiam em ritmos diferentes do interior. Esse estresse contínuo pode levar ao desprendimento de lascas e fragmentos (esfoliação).<br>Ação do gelo (Congelamento e Descongelamento): A água se infiltra em rachaduras e fendas da rocha e, quando congela, expande-se (aumenta seu volume em cerca de 9%). Essa expansão exerce uma pressão tremenda que alarga as fissuras e, eventualmente, quebra a rocha (gelifração ou frost wedging).<br>Crescimento de cristais de sal (Haloclastia): Em climas áridos ou costeiros, a água salgada penetra nos poros e fissuras da rocha. À medida que a água evapora, os sais cristalizam-se e crescem, <br>exercendo pressão suficiente para desintegrar a rocha.<br>Atividade biológica: As raízes das plantas crescem em pequenas fissuras nas rochas e, à medida que se expandem em busca de água e nutrientes, exercem pressão e quebram a rocha.<br>Abrasão: Ocorre quando fragmentos de rocha e outras partículas são esfregados uns contra os outros ou contra uma superfície rochosa por agentes como vento, água corrente (rios, ondas) ou gelo (geleiras).<br>Alívio de pressão: Rochas formadas sob grande pressão no subsolo podem se expandir e fraturar quando a pressão é aliviada pela erosão do material sobrejacente, resultando em fraturas paralelas à superfície (esfoliação em domos<br><br>",
+        img: "./img/02-03.webp",
       },
       {
-        q: "3) Cite dois exemplos de fenômenos que quebram rochas mecanicamente.",
-        img: "link",
+        q: "4) Uma rocha de 12 cm se parte em 6 pedaços iguais. Qual o tamanho de cada pedaço?<br><br><br><br><br>",
+        img: "./img/02-04.png",
       },
       {
-        q: "4) Uma rocha de 12 cm se parte em 6 pedaços iguais. Qual o tamanho de cada pedaço?",
-        img: "link",
-      },
-      {
-        q: "5) Um bloco reduz 0,3 cm por ano por abrasão. Quanto perde em 20 anos?",
-        img: "link",
+        q: "5) Um bloco reduz 0,3 cm por ano por abrasão. Quanto perde em 20 anos?<br><br><br><br><br>",
+        img: "./img/02-05.webp",
       },
     ],
   },
@@ -88,21 +89,23 @@ const slidesData = [
   `,
     questions: [
       {
-        q: "1) Por que a água é essencial no intemperismo químico?",
-        img: "link",
+        q: "1) Por que a água é essencial no intemperismo químico?<br><br><br><br><br>A água é essencial no intemperismo químico porque funciona como um agente reagente que decompõe quimicamente as rochas e minerais, através de processos como a hidrólise, dissolução e oxidação. Ela age como um solvente para substâncias químicas, quebrando as ligações da rocha e transformando-a em compostos mais macios e fracos. ",
+        img: "./img/03-01.webp",
       },
       {
-        q: "2) Cite um exemplo de mineral que pode virar argila.",
-        img: "link",
+        q: "2) Cite um exemplo de mineral que pode virar argila.<br><br><br><br><br>O feldspato é um exemplo comum de mineral que, através de processos de intemperismo (desgaste e alteração por fatores climáticos), pode se transformar em argila. <br>Esse processo, também conhecido como caulinização, envolve a alteração química do feldspato, resultando na formação de minerais argilosos, principalmente a caulinita. É por isso que o caulim (argila rica em caulinita) é frequentemente encontrado em áreas onde rochas ricas em feldspato, como o granito, sofreram esse tipo de alteração ao longo de milhões de ano",
+        img: "./img/03-02.jpeg",
       },
-      { q: "3) Qual clima favorece mais esse processo?", img: "link" },
+      { q: "3) Qual clima favorece mais esse processo?<br><br><br><br><br>O clima que mais favorece o processo de alteração do solo (intemperismo) em regiões de chapadas e chapadões, com formação de crostas lateríticas ('canga'), é o clima tropical com sazonalidade das chuvas. <br>As características desse clima que favorecem o processo são:<br>Altas temperaturas: Aceleram as reações químicas do intemperismo.<br>Sazonalidade das chuvas (estação chuvosa e seca bem definidas): Promove a lixiviação (lavagem) do solo e a concentração de óxidos de ferro e alumínio na superfície durante a estação seca, resultando na formação da laterita. <br>Em geral, climas quentes e úmidos, como o equatorial e o tropical úmido, favorecem predominantemente o intemperismo químico intenso e a formação de solos espessos (regolitos). No entanto, a formação específica de crostas lateríticas (canga) é particularmente associada à alternância de períodos chuvosos e secos do clima tropical típico. ",
+        img: "./img/03-03.jpeg",
+      },
       {
         q: "4) Um mineral perde 5% da massa por ano. Se começa com 300 g, quanto perde em 3 anos?",
-        img: "link",
+        img: "./img/03-04.png",
       },
       {
         q: "5) Se 40 g de uma rocha reagem e viram 10 g de argila, qual a porcentagem convertida?",
-        img: "link",
+        img: "./img/03-05.png",
       },
     ],
   },
